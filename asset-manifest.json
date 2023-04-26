@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/Music-List/static/css/main.073c9b0a.css",
-    "main.js": "/Music-List/static/js/main.1ad8fda9.js",
-    "static/js/787.12eb9077.chunk.js": "/Music-List/static/js/787.12eb9077.chunk.js",
-    "static/media/logo.svg": "/Music-List/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Music-List/static/css/main.7d37260c.css",
+    "main.js": "/Music-List/static/js/main.d481aa1a.js",
     "index.html": "/Music-List/index.html",
-    "main.073c9b0a.css.map": "/Music-List/static/css/main.073c9b0a.css.map",
-    "main.1ad8fda9.js.map": "/Music-List/static/js/main.1ad8fda9.js.map",
-    "787.12eb9077.chunk.js.map": "/Music-List/static/js/787.12eb9077.chunk.js.map"
+    "main.7d37260c.css.map": "/Music-List/static/css/main.7d37260c.css.map",
+    "main.d481aa1a.js.map": "/Music-List/static/js/main.d481aa1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1ad8fda9.js"
+    "static/css/main.7d37260c.css",
+    "static/js/main.d481aa1a.js"
   ]
 }
